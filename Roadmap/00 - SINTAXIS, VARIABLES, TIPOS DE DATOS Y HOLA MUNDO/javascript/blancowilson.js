@@ -18,10 +18,10 @@ console.warn("variable tipo numerico",number)
 console.log("variable tipo booleana",bool)
 console.log("variable tipo null",nothing)
 console.log("variable tipo array",array)
-
 console.log("Objeto", objeto)
-
 console.log('Hola', lenguaje)
+document.write("Hola: ", lenguaje)
+
 
 
 
